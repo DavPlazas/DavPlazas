@@ -2,7 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavPlazas&theme=nightowl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-#Tools and languages:
+# Tools and languages:
+
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 
 
