@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavPlazas&theme=nightowl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DavPlazas&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DavPlazas&theme=nightowl&hide_border=false)](https://git.io/streak-stats)
 
 ## Tools and languages used:
 
