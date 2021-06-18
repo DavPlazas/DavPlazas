@@ -1,10 +1,13 @@
-## Stats:
+## My Stats:
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavPlazas&count_private=true&show_icons=true&theme=nightowl)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavPlazas&theme=nightowl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+http://github-readme-streak-stats.herokuapp.com
 
-## Tools and languages:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DavPlazas&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
+
+## Tools and languages used:
 
 <a href="https://atom.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" alt="atom" width="40" height="40"/> </a>
 <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
